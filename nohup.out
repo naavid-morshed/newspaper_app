@@ -1,0 +1,123 @@
+INFO    | Android emulator version 32.1.14.0 (build_id 10330179) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_79540.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000036fc240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1245.84,645.241 gbl=1245.84,645.241 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1245.84,-645.241 last=-1245.84,-645.241 Δ 1245.84,645.241) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000036fc240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1349.54,727.432 gbl=1349.54,727.432 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1349.54,-727.432 last=-1349.54,-727.432 Δ 1349.54,727.432) : no target window ((null):0, (null))
+INFO    | Boot completed in 23862 ms
+INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+INFO    | Revoking microphone permissions for Google App.
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000036fc240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1136.22,89.4044 gbl=1136.22,89.4044 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1136.22,-89.4044 last=-1136.22,-89.4044 Δ 1136.22,89.4044) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000036fc240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=618.439,61.8657 gbl=618.439,61.8657 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-618.439,-61.8657 last=-618.439,-61.8657 Δ 618.439,61.8657) : no target window ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Wait for emulator (pid 79540) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Android emulator version 32.1.14.0 (build_id 10330179) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_2495.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003792700, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=0 ts=0 pos=0,0 scn=727.589,733.789 gbl=727.589,733.789 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-727.589,-733.789 last=-727.589,-733.789 Δ 727.589,733.789) : no target window ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Wait for emulator (pid 2495) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Wait for emulator (pid 2495) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))

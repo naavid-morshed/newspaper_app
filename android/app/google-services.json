@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370198018703",
+    "project_id": "newpaper-db",
+    "storage_bucket": "newpaper-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370198018703:android:58950ce5ef741ec18e8efa",
+        "android_client_info": {
+          "package_name": "com.example.newspaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370198018703-9fp5ikd79op0oa2s63c1herg9v71du2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxaYZ86qquiwJ3zxzGtsQjYEfc94PbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370198018703-9fp5ikd79op0oa2s63c1herg9v71du2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
